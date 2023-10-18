@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNDHswIU6f/02nB0ebSkUvU",
+      "authorship_tag": "ABX9TyPESKuncccgShXT2KZNY6zq",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -32,7 +32,7 @@
         "# ETE Cícero Dias\n",
         "# Prof. Cloves\n",
         "# Python Noções OO\n",
-        "# Estudante: ...\n",
+        "# Estudante: Ana beatriz\n",
         "\n",
         "class Automovel:\n",
         "    def __init__(self, placa='xx-123'):\n",
@@ -58,7 +58,7 @@
         "id": "DJ2oytSwBhzd",
         "outputId": "8b1b4739-b4c9-4e85-babd-c3d2fada59b5"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
