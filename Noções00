@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPESKuncccgShXT2KZNY6zq",
+      "authorship_tag": "ABX9TyPnCnti4NpB13xauSFsJpFw",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -28,6 +28,11 @@
     },
     {
       "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "DKsMmmJwEmQq"
+      },
+      "outputs": [],
       "source": [
         "# ETE Cícero Dias\n",
         "# Prof. Cloves\n",
@@ -47,27 +52,7 @@
         "# Exemplo de uso da classe Automovel\n",
         "carro = Automovel()\n",
         "print(carro.get_placa())\n",
-        "carro.dirigir(60)\n",
-        "\n",
-        "\n"
-      ],
-      "metadata": {
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "id": "DJ2oytSwBhzd",
-        "outputId": "8b1b4739-b4c9-4e85-babd-c3d2fada59b5"
-      },
-      "execution_count": null,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "xx-123\n",
-            "Estou dirigindo a 60 km/h\n"
-          ]
-        }
+        "carro.dirigir(60)"
       ]
     }
   ]
